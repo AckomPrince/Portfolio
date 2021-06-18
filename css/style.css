@@ -95,7 +95,7 @@ body {
 }
 
 .chart .percent {
-	color: #000;
+	color: #c9bc1185;
     line-height: 152px;
     display: inline-block;
     font-size: 35px;
@@ -326,7 +326,7 @@ body {
 }
 
 #navigation {
-	background-color: #e27e36;
+	background-color: #040720;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
@@ -337,17 +337,18 @@ body {
 }
 
 #navigation li a {
-	color: #fff;
+	color: #c9bc1185;
 }
 
 .navbar-brand,
 .navbar-brand:hover {
-	color: #fff;
+	color: #c9bc1185;
 }
 
 .navbar-toggler-icon {
 	background: url(../img/icons/menu.png);
 	background-size: 100%;
+	color: #fff;
 }
 
 .fixedNav #navigation {
